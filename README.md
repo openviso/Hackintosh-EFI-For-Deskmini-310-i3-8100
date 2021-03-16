@@ -86,12 +86,3 @@ BIOS版本：P4.2
 
 ## 截图
 
-[![Overview](https://github.com/openviso/DeskMini310_EFI/raw/master/Overview.png)](https://github.com/openviso/DeskMini310_EFI/blob/master/Overview.png)
-
-[![Geekbench5](https://github.com/openviso/DeskMini310_EFI/raw/master/Geekbench5.png)](https://github.com/openviso/DeskMini310_EFI/blob/master/Geekbench5.png)
-
-[![IntelPowerGadget](https://github.com/openviso/DeskMini310_EFI/raw/master/IntelPowerGadget.png)](https://github.com/openviso/DeskMini310_EFI/blob/master/IntelPowerGadget.png)
-
-[![H264](https://github.com/openviso/DeskMini310_EFI/raw/master/H264.png)](https://github.com/openviso/DeskMini310_EFI/blob/master/H264.png)
-
-[![WIFI](https://github.com/openviso/DeskMini310_EFI/raw/master/WIFI.png)](https://github.com/openviso/DeskMini310_EFI/blob/master/WIFI.png)
