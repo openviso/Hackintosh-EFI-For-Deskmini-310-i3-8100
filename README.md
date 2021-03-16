@@ -1,0 +1,1 @@
+# Hackintosh-EFI-For-Deskmini-310-i3-8100
